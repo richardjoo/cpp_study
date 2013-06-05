@@ -9,3 +9,6 @@ goal is to go over as quickly as possible to refresh anyone's forgotten c++ skil
 
 I am using Linux Ubuntu.  So, please keep that in mind.
 And make sure you have gcc and g++ installed.
+
+check www.boost.org
+
